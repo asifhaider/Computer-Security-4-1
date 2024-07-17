@@ -30,8 +30,8 @@
 
 ### 5. Project
 
-![beef]()
+![beef](/Project/beef.png)
 
 - Exploring BeEF: Browser Exploitation Framework
-    - Project [Report]()
-    - Demo [Video]()
+    - Project [Report](/Project/1805112_1805117_Report.pdf)
+    - Demo [Video](https://youtu.be/ibCBtcoPTzM?si=d4gDwhogPyD4Q_ou)
